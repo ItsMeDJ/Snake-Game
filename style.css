@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: #008000;
+}
+#mycanvas{
+    background-color: #FFd700;
+    /* background-image: url("snake.jpeg"); */
+    border: 18px solid #000000;
+    margin-left: 14%;
+}
